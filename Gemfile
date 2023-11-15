@@ -67,3 +67,5 @@ gem 'rspec-rails', group: [:test]
 gem 'simple_form'
 
 gem 'erb_lint'
+
+gem 'httparty'
